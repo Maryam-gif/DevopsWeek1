@@ -1,5 +1,4 @@
-
-echo "Hello devops week1"
+echo "Hello devops week1 - branch from version 1"
 
 
 
